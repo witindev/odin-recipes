@@ -14,3 +14,8 @@ img {
     height: auto;
     width: 75%;
 }
+
+p {
+    font-family: Times, Cambria;
+    text-align: center;
+}
